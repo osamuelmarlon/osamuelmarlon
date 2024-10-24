@@ -3,13 +3,13 @@
 ###
 
 <p align="left">👀 Tenho interesse em Ciência de Dados e soluções para um mundo melhor
-  <br>📚 Atualmente estou estudando sobre webscraping e estatística <br>🎯 Meu objetivo é encontrar oportunidades de aprender e contribuir com diversas projetos <br>:pencil2: Eu escrevo artigos no Medium https://medium.com/@samuel197lopes</p>
+  <br>📚 Atualmente estou estudando sobre webscraping e estatística <br>🎯 Meu objetivo é encontrar oportunidades de aprender e contribuir com diversas projetos <br>:pencil2: Eu escrevo artigos no  <a href="https://medium.com/@samuel197lopes" target="_blank">Medium</p>
 
 ###
 <h2 align="left">Conecte-se comigo</h2>
 <div align="left">
-  <a href="https://www.linkedin.com/in/samuel-marlon-lopes-costa/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://medium.com/@samuel197lopes" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+  <a href="https://www.linkedin.com/in/samuel-marlon-lopes-costa/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <a href="https://medium.com/@samuel197lopes" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
 </div>
 
 
