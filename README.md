@@ -1,9 +1,9 @@
-<h1 align="left">👋 Olá, eu sou o @osamuelmarlon</h1>
+<h1 align="left">👋 Olá, eu sou o Samuel Marlon</h1>
 
 ###
 
 <p align="left">👀 Tenho interesse em Ciência de Dados e soluções para um mundo melhor
-  <br>📚 Atualmente estou estudando sobre webscraping e estatística <br>🎯 Meu objetivo é encontrar oportunidades de aprender e contribuir com diversas projetos <br>:pencil2: Eu escrevo artigos no  <a href="https://medium.com/@samuel197lopes" target="_blank">Medium</p>
+  <br>📚 Atualmente estou estudando sobre Pandas, webscraping e estatística <br>🎯 Meu objetivo é encontrar oportunidades de aprender e contribuir com diversas projetos <br>:pencil2: Eu escrevo artigos no  <a href="https://medium.com/@samuel197lopes" target="_blank">Medium</p>
 
 ###
 <h2 align="left">Conecte-se comigo</h2>
