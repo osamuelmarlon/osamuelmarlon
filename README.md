@@ -1,20 +1,22 @@
+<p align="center">
+  <img src="img_DSA.png" >
+</p>
 <h1 align="left">👋 Olá, eu sou o Samuel Marlon</h1>
 
 ###
 
-<p align="left">👀 Tenho interesse em Ciência de Dados e soluções para um mundo melhor
-  <br>📚 Atualmente estou estudando sobre Pandas, webscraping e estatística <br>🎯 Meu objetivo é encontrar oportunidades de aprender e contribuir com diversas projetos <br>:pencil2: Eu escrevo artigos no  <a href="https://medium.com/@samuel197lopes" target="_blank">Medium</p>
+<p align="left">👀 Tenho interesse em Análise e Ciência de Dados
+  <br>💻 Experiência em: Python, SQL, Power BI, Excel. <br>:pencil2: Eu escrevo artigos no  <a href="https://medium.com/@samuel197lopes" target="_blank">Medium</p>
 
 ###
-<h2 align="left">Conecte-se comigo</h2>
-<div align="left">
-  <a href="https://www.linkedin.com/in/samuel-marlon-lopes-costa/" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <a href="https://medium.com/@samuel197lopes" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="52" height="40" alt="medium logo"  />
+## Contatos:
+<div>
+<a href="https://www.linkedin.com/in/samuel-marlon-lopes-costa/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://medium.com/@samuel197lopes" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a> 
+<a href = "mailto:samuel197lopes@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-
 ###
-
 
 <h2 align="left">Linguagens e Ferramentas</h2>
 
@@ -31,8 +33,14 @@
 </div>
 
 ###
+## Projetos:
+<div align="left">
+  <p>
+    <br>Airbnb: Da Economia Colaborativa ao Oligopólio - o que os dados revelam sobre a crise da moradia em Barcelona<br>
+    <br> <a href="https://github.com/osamuelmarlon/analise_exploratoria_enem" target="_blank">Análise dos Microdados ENEM 2023</a></p>
+</div>
 
-
+##
 <!---
 osamuelmarlon/osamuelmarlon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
