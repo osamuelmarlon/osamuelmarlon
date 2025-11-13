@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="img_DSA.png" >
+  <img src="img_DSA (1).png" >
 </p>
 <h1 align="left">👋 Olá, eu sou o Samuel Marlon</h1>
 
@@ -36,8 +36,8 @@
 ## Projetos:
 <div align="left">
   <p>
-    <br>Airbnb: Da Economia Colaborativa ao Oligopólio - o que os dados revelam sobre a crise da moradia em Barcelona<br>
-    <br> <a href="https://github.com/osamuelmarlon/analise_exploratoria_enem" target="_blank">Análise dos Microdados ENEM 2023</a></p>
+    <br><a href="https://github.com/osamuelmarlon/airbnb_oligopolio" target="_blank">Airbnb: Da Economia Colaborativa ao Oligopólio - o que os dados revelam sobre a crise da moradia em Barcelona<br>
+    <br><a href="https://github.com/osamuelmarlon/analise_exploratoria_enem" target="_blank">Análise dos Microdados ENEM 2023</a></p>
 </div>
 
 ##
